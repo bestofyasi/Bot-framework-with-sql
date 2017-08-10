@@ -1,0 +1,40 @@
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Bot Application.dll.config
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Bot Application.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Bot Application.pdb
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Autofac.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Chronic.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.Bot.Builder.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.Bot.Connector.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Newtonsoft.Json.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\System.Net.Http.Formatting.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\System.Web.Http.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\System.Web.Http.WebHost.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Autofac.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.Bot.Builder.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.Bot.Connector.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\Newtonsoft.Json.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\System.Net.Http.Formatting.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\System.Web.Http.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\System.Web.Http.WebHost.xml
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\obj\Debug\MyBot - WH.csprojResolveAssemblyReference.cache
+D:\Bot Build\MyBot - WH\MyBot - WH\obj\Debug\Bot Application.dll
+D:\Bot Build\MyBot - WH\MyBot - WH\obj\Debug\Bot Application.pdb
